@@ -1,0 +1,51 @@
+.sidebar{
+  background-color: #f6f6f6;
+  height: 100%;
+  margin-top: 20px;
+  padding: 0;
+}
+
+#logo {
+  max-width: 100%;
+  padding: 20px;
+}
+
+.mint {
+  background-color: #f5fffa;
+  border: 1px solid #cff2e0;
+  margin: 20px;
+}
+
+.margin {
+  margin: 10px;
+}
+
+.sidebar-text p{
+  margin: 0px 25px;
+  font-size: 13px;
+}
+
+hr{
+  margin: 5px;
+}
+
+.sidebar-text a{
+  margin: 25px;
+  font-size: 13px;
+}
+
+.blue {
+  background-color: #f5faff;
+  border: 1px solid #cedff1;
+  margin: 20px;
+}
+
+.bggreen {
+  background-color: #cff2e0;
+  border: 1px solid: #a3beb1;
+}
+
+.bgblue {
+  background-color: #cedff1;
+  border: 1px solid #a3b0be;
+}
